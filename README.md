@@ -38,5 +38,5 @@ Este repositorio centraliza todas las actividades, modelos y scripts SQL desarro
 ---
 
 <div align="center">
-  <small><b>Mes, 2026</b></small>
+  <small><b>Marzo, 2026</b></small>
 </div>
